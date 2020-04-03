@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="BeTheHero" title="#delicinha" src="files/bethehero.svg" width="200px" />
+    <img alt="BeTheHero" title="#delicinha" src="https://raw.githubusercontent.com/Rocketseat/semana-omnistack-11/master/.github/bethehero.svg" width="200px" />
 </h1>
 
 
@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src="files/bethehero.png" width="100%">
+  <img alt="BeTheHero" src="https://raw.githubusercontent.com/Rocketseat/semana-omnistack-11/master/.github/bethehero.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
