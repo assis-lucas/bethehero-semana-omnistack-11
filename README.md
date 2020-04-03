@@ -1,9 +1,4 @@
 
-<h1 align="center">
-    <img alt="BeTheHero" title="#delicinha" src="https://raw.githubusercontent.com/Rocketseat/semana-omnistack-11/master/.github/bethehero.svg" width="200px" />
-</h1>
-
-
 <h4 align="center">
   🚀 Semana OmniStack 11.0
 </h4>
